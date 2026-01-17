@@ -18,5 +18,5 @@
 
 ## Смотреть проект ##
 
-Ссылка на проект в gh-pages: **[Путешествия по России](#)**
+Ссылка на проект в gh-pages: https://trohimviacheslav20-dotcom.github.io/lab7/
 
